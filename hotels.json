@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Hotel A",
+      "address": "123 Main St",
+      "city": "Mumbai",
+      "image": "image1.jpg",
+      "price": "$100 per night"
+    },
+    {
+      "name": "Hotel B",
+      "address": "456 Elm St",
+      "city": "City B",
+      "image": "image2.jpg",
+      "price": "$150 per night"
+    }
+  ]
+  
