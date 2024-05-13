@@ -9,7 +9,28 @@
     {
       "name": "Hotel B",
       "address": "456 Elm St",
-      "city": "City B",
+      "city": "Washim",
+      "image": "image2.jpg",
+      "price": "$150 per night"
+    },
+    {
+      "name": "Hotel C",
+      "address": "456 Elm St",
+      "city": "Kolhapur",
+      "image": "image2.jpg",
+      "price": "$150 per night"
+    },
+    {
+      "name": "Hotel D",
+      "address": "456 Elm St",
+      "city": "Akola",
+      "image": "image2.jpg",
+      "price": "$150 per night"
+    },
+    {
+      "name": "Hotel E",
+      "address": "456 Elm St",
+      "city": "Pune",
       "image": "image2.jpg",
       "price": "$150 per night"
     }
