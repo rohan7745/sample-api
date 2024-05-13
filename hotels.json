@@ -1,5 +1,5 @@
 [
-    {
+    { "id": "1",
       "name": "Hotel A",
       "address": "123 Main St",
       "city": "Mumbai",
@@ -7,6 +7,7 @@
       "price": "$100 per night"
     },
     {
+      "id": "2",
       "name": "Hotel B",
       "address": "456 Elm St",
       "city": "Washim",
@@ -14,6 +15,7 @@
       "price": "$150 per night"
     },
     {
+      "id": "3",
       "name": "Hotel C",
       "address": "456 Elm St",
       "city": "Kolhapur",
@@ -21,6 +23,7 @@
       "price": "$150 per night"
     },
     {
+      "id": "4",
       "name": "Hotel D",
       "address": "456 Elm St",
       "city": "Akola",
@@ -28,6 +31,7 @@
       "price": "$150 per night"
     },
     {
+      "id": "5",
       "name": "Hotel E",
       "address": "456 Elm St",
       "city": "Pune",
