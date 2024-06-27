@@ -1,11 +1,15 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
+const cors = require('cors')
 
 
 const hotelsData = fs.readFileSync('hotels.json');
 const hotels = JSON.parse(hotelsData);
-
+app.use(cors());
+app.get('/', (req, res) => {
+    res.send('Welcome to the Hotel API');
+});
 
 app.get('/hotels', (req, res) => {
  
